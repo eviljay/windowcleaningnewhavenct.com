@@ -1,0 +1,15 @@
+User-agent: AhrefsBot
+Crawl-Delay: 20
+
+User-agent: MJ12bot
+Crawl-Delay: 20
+
+User-agent: *
+
+Disallow: https://www.windowcleaningnewhavenct.com/thank-you.html
+
+Disallow: https://www.windowcleaningnewhavenct.com/privacy.html
+
+Disallow: https://www.windowcleaningnewhavenct.com/terms.html
+
+Sitemap: https://www.windowcleaningnewhavenct.com/sitemap.xml
